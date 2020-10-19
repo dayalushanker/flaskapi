@@ -3,9 +3,13 @@ Please use the following steps
 Step 1:- Create .env file in root directory and put following 
 
 debug=True
+
 export FLASK_APP = fapp.py
+
 export FLASK_ENV = development
+
 export FLASK_RUN_HOST=localhost
+
 export FLASK_RUN_PORT=8888
 
 Step 2:- Create virtual environment
